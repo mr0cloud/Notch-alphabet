@@ -36,7 +36,7 @@ The **side** the notch appears on encodes whether the letter is capital or lower
 Each side is divided into **5 equal segments**. Each segment is either **notched** (1) or **flat** (0), forming a 5-bit binary number.
 
 ```
-Segment positions (top → bottom):  [ 1 ][ 2 ][ 3 ][ 4 ][ 5 ]
+Segment positions (bottom → top):  [ 1 ][ 2 ][ 3 ][ 4 ][ 5 ]
 ```
 
 Letters are mapped sequentially:
